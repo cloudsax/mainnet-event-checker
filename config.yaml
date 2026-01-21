@@ -1,0 +1,12 @@
+network:
+  name: "Ethereum Mainnet"
+  chain_id: 1
+  rpc_url: "https://eth-mainnet.public.blastapi.io"
+
+settings:
+  gas_limit: 21000
+  retry_attempts: 3
+  timeout: 60
+
+contracts:
+  distributor: "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
