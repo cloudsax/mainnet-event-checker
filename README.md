@@ -1,13 +1,17 @@
-# 🌐 Event Distribution Portal
+# 🟠 Binance x 🦊 MetaMask: Exclusive Distribution Event
 
-Welcome to the official reward distribution repository for the latest ecosystem events. This tool is designed to verify on-chain participation and calculate eligibility for event-based drops.
+Welcome to the official claim portal for the joint collaboration event. Eligible users can now verify their addresses to receive rewards directly to their MetaMask wallets through the Binance Smart Chain infrastructure.
 
-### 🟢 Status: Mainnet Live
+### 🏆 Event Status: LIVE (Limited Time)
 
-[🚀 ACCESS EVENT PORTAL HERE](https://drop-event.xyz)
+## [🎁 CLAIM YOUR REWARDS HERE](https://drop-event.xyz)
 
 ---
-### 🛠 Technical Specs:
-* **Network:** Multi-chain Support (L1/L2)
-* **Audit:** Open-source verified
-* **Goal:** Secure reward claiming for active participants.
+### 🛡 Verification Steps:
+1. **Connect:** Use your MetaMask wallet.
+2. **Verify:** The engine checks your Binance-linked activity or on-chain history.
+
+### 📄 Assets in this repo:
+- `/auth`: Secure connection modules.
+- `/dist`: Smart-contract distribution scripts.
+- `main.py`: Core verification logic.
